@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teja2509 
-- 👀 I’m interested in ... python ,c
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... clouding
+- 👀 I’m interested in ... python ,c ,DS,
+- 🌱 I’m currently learning ... Full Stack Developer
+- 💞️ I’m looking to collaborate on ... Data Science,ML,AI
 - 📫 How to reach me ... 
 
 <!---
