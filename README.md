@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @teja2509 
+- 👋 Hi, I’m @pritham teja 
 - 👀 I’m interested in ... python ,c ,DS,
-- 🌱 I’m currently learning ... Full Stack Developer
-- 💞️ I’m looking to collaborate on ... Data Science,ML,AI
+- 🌱 I’m currently learning ... Java
+- 💞️ I’m looking to collaborate on ... Full Stack Developer,Data Science,ML,AI,
 - 📫 How to reach me ... 
 
 <!---
